@@ -1,0 +1,19 @@
+there are some complaints for the PCI business.
+
+There is an audit basically
+
+PCI business will completely test
+and they will give you a certificate then
+
+And you have to submit the audit as well
+
+Basically you are requesting for payment processing and the thing is that as I told you above you have to take the audit from PCI business you can use by different payments like Stripe or PayPal. The PCI business will perform test and they will give you a certificate then your app will be deployed as in the picture you are requesting a certificate and they will give you within 7 days yes
+
+But 10 hours is less for this even I have to completely test your app then we have to achieve our certificate then your app will be deployed on the store so it will take atleast 15-18 hours.
+
+Just like before adsense approval, website is ausited by google, in the same way there will be audit before they give you certificate
+
+Well, you will have to use stripe or spreedly to proceed further . In either way you will have to get shopify certificate for compliance
+
+
+

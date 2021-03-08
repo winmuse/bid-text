@@ -1,0 +1,57 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote----------
+git push -u origin master
+
+
+echo "# food-shopify-app" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/food-shopify-app.git
+git push -u origin main
+
+echo "# GameAuto_bejeweleed_champions" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/GameAuto_bejeweleed_champions.git
+git push -u origin main
+
+echo "# j-league-ios" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/j-league-ios.git
+git push -u origin main
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/Cambria_Laravel.git
+git push -u origin main
+
+echo "# sandar_react-native" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/sandar_react-native.git
+git push -u origin main
+
+echo "# gge4k-Dean-Dec29" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/winmuse/gge4k-Dean-Dec29.git
+git push -u origin main
+
+
+

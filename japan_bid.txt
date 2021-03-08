@@ -1,0 +1,50 @@
+Nice to meet you.
+We have been engaged in website development and application development, infrastructure (server, network) construction and operation, ERM package introduction consulting, and development.
+We will develop a system that will satisfy our customers and provide services that our customers can rest assured.
+■ Career
+I have been developing web applications for over 7 years.
+We have over 5 years of experience developing Android / iOS mobile apps.
+While proceeding with development, I used GitHub, Jira, BitBucket, etc. for project management, source management, and error management.
+In addition, we are promoting server construction, file management, and utilization of various services using cloud services such as AWS, Azure, and Firebase.
+■ Achievements and strengths
+Since we have been developing for more than 5 years, we have carried out many projects in various fields.
+Some projects I developed alone, others with a few partners.
+The representative projects are introduced below.
+◆ Web project
+https://alphatelemed.com/
+A system in which a doctor remotely examines a patient's condition through video chat, prepares a prescription, and sends it to a pharmacy.
+https://est-navi.jp/#/
+A web system for job vacancies.
+Individuals looking for a new profession register their credentials and fill in the company information they seek.
+Companies recruiting staff register information about their company and profiles for the talent they require.
+Individuals looking for a new profession can search for a company that suits them, and a company that recruits staff can search for talent that suits the company.
+You can also interact with each other on the site.
+https://www.tabikobo.com/
+A web system that supports airline tickets and hotel reservations for customers who wish to travel abroad.
+* Some achievements cannot be stated due to confidentiality obligations.
+We can talk to you individually, so if you are interested, please feel free to contact us.
+
+■ Self PR points
+◆ Development language
+PHP / Swift / Objective-C / Java / C # / ASP.NET / VB.NET / Ruby / Python
+MySQL / MSSQL / PostgreSQL
+Javascript (jQuery) / Node.js / React.JS / Vue.js
+HTML5 / CSS3 technology (web page coding technology)
+
+◆ Framework
+CakePHP / Codeigniter / Laravel / Ruby on Rails / Django
+WP / Shopify / EC-CUBE
+AngularJS / Vuex / Nuxt / Redux
+
+◆ Continuity of development
+Then we will develop it.
+I would like to directly proceed with detailed discussions such as the development period and unit price.
+
+I think that software development is not simply program production, but a service that meets the needs of our customers.
+We will always do our best to produce the software you want according to your thoughts.
+We will always work with you to the end for your success.
+We look forward to your cooperation.
+Thank you for your cooperation!
+Nice to meet you.
+I read the contents of the case presented by the customer.
+We propose with the expectation that we will be able to carry out your case.
